@@ -10,6 +10,8 @@ Simply clone the repo or copy the main.py file content on your machine.
 
 ## Usage
 
+> After tests, it's maybe better to run that script from WSL instead of Windows terminal.
+
 Run the python script where you'll need it, it will ask you for the folder to convert path.
 
 After entering the path, the script will apply changes to all subfiles.
