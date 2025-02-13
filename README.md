@@ -18,6 +18,6 @@ After entering the path, the script will apply changes to all subfiles.
 
 Here you go, your docker deployment should succeed now !
 
-# Credit
+## Credit
 
 Jonathan Gabioud
